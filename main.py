@@ -1,10 +1,10 @@
 from tkinter import *
 from PIL import Image, ImageTk, ImageDraw, ImageFont
-
-image_to_edit = "/Users/zohakaukab/Desktop/5.png"
-save_image_path = "/Users/zohakaukab/Desktop/pic82.png"
-logo_path = "/Users/zohakaukab/Desktop/logo-3.png"
-text_for_watermark = "@Copyright Zoha Kaukab"
+#create values here
+image_to_edit = "add image to edit path here"
+save_image_path = "add a path to save image"
+logo_path = "/add logo's path here"
+text_for_watermark = "add the text you want on your image here"
 pos_add_text = (10, 10)
 pos_add_logo = (10, 10)
 
